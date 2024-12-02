@@ -1,0 +1,47 @@
+[33mcommit e6f0d0391000ffe99b3739e575585556da72210c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Donirs <rafhiromadhoni07@gmail.com>
+Date:   Mon Dec 2 19:06:28 2024 +0700
+
+    add database
+
+[33mcommit 9f1e10be1549ed68ef81d278ff272d8ed485b83c[m
+Author: Donirs <rafhiromadhoni07@gmail.com>
+Date:   Mon Dec 2 19:05:16 2024 +0700
+
+    add database
+
+[33mcommit 5e4483bda260cf9c963dea370c3c2213bf3bc6af[m
+Author: Donirs <rafhiromadhoni07@gmail.com>
+Date:   Mon Dec 2 19:01:52 2024 +0700
+
+    add database
+
+[33mcommit 615c9131b405fba5d4523c809ab238b3da06828f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Brian Anashari <brianashari18@gmail.com>
+Date:   Mon Nov 25 09:44:50 2024 +0700
+
+    modify create venue
+
+[33mcommit a60aa344315dcb55baf602d0c4da89c14821e26d[m
+Author: Brian Anashari <brianashari18@gmail.com>
+Date:   Mon Nov 25 05:08:38 2024 +0700
+
+    add google auth
+
+[33mcommit e2aafecad50bf07f21403b17c6f07428bd282797[m
+Author: Brian Anashari <brianashari18@gmail.com>
+Date:   Thu Nov 21 22:41:50 2024 +0700
+
+    add user api
+
+[33mcommit f32140bf1fe8f4ecf0b04a90e7cb141a8c5ffce1[m
+Author: Brian Anashari <brianashari18@gmail.com>
+Date:   Wed Nov 20 21:20:28 2024 +0700
+
+    add register api
+
+[33mcommit 40e2eea4b6de370d3646e1b0dd866f43237d4c1b[m
+Author: Brian Anashari <brianashari18@gmail.com>
+Date:   Mon Nov 18 21:21:14 2024 +0700
+
+    add api spec
